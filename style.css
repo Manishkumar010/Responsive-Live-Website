@@ -111,7 +111,7 @@ nav button{
     display: flex;
     justify-content: center;
     align-items: center;
-    width: 48%;
+    width: 60%;
     border-radius: 10px;
 }
 .main-box .search-box input{
@@ -122,7 +122,7 @@ nav button{
     padding: 0px 20px;
     color: white;
     border-radius: 7px;
-    width: 400px;
+    width: 70%;
     height: 40px;
 }
 .main-box .search-box button{
